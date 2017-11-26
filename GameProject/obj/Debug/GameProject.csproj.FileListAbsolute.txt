@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\GameProject\GameProject\bin\Debug\GameProject.exe.config
+C:\Users\Administrator\Desktop\GameProject\GameProject\bin\Debug\GameProject.exe
+C:\Users\Administrator\Desktop\GameProject\GameProject\bin\Debug\GameProject.pdb
+C:\Users\Administrator\Desktop\GameProject\GameProject\obj\Debug\GameProject.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GameProject\GameProject\obj\Debug\GameProject.Form1.resources
+C:\Users\Administrator\Desktop\GameProject\GameProject\obj\Debug\GameProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\GameProject\GameProject\obj\Debug\GameProject.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\GameProject\GameProject\obj\Debug\GameProject.exe
+C:\Users\Administrator\Desktop\GameProject\GameProject\obj\Debug\GameProject.pdb
+C:\Users\Administrator\Desktop\GameProject\GameProject\obj\Debug\GameProject.Game5.resources
+C:\Users\Administrator\Desktop\GameProject\GameProject\obj\Debug\GameProject.ScoreBoard.resources
+C:\Users\Administrator\Desktop\GameProject\GameProject\bin\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\GameProject\GameProject\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\GameProject\GameProject\obj\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\GameProject\GameProject\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\GameProject\GameProject\obj\Debug\GameProject.csproj.ResolveComReference.cache
